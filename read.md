@@ -2,4 +2,5 @@
 
 Esta saga de libros cuenta la historia de un hacker excepcional.
 
-**Alfredo Sanchez**, Git fan.
+<<<<<<< HEAD
+**Alfredo Sanchez**, Git $ larry potrer fans
